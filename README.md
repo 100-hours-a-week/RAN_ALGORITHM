@@ -225,6 +225,7 @@ _(26.02.06 기준)_
 📆 03.02 (Mon) ~ 03.08 (Sun)
 
 - [[Lv.3] 정수 삼각형](Algorithm/algorithm-til/DP/2026-01-02_programmers_lv3_정수삼각형.md)
+- [[Lv.3] N으로 표현](Algorithm/algorithm-til/DP/2026-05-06_PG_dp_N으로-표현.md)
 - [[실버3] 1로 만들기](Algorithm/algorithm-til/DP/2026-02-28_BOJ_dp_1로-만들기.md)
 - [[실버3] 1,2,3 더하기](Algorithm/algorithm-til/DP/2026-03-01_BOJ_dp_1-2-3-더하기.md)
 - [[실버3] 계단 오르기](Algorithm/algorithm-til/DP/2026-03-01_BOJ_dp_계단-오르기.md)
