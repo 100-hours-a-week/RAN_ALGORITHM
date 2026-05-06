@@ -168,6 +168,7 @@ _(26.02.06 기준)_
 - [[실버3] 바이러스](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_바이러스.md)
 - [[실버1] 숨바꼭질](Algorithm/algorithm-til/Search_Graph/2026-02-22_BOJ_bfs_숨바꼭질.md)
 - [[Lv.2] 게임 맵 최단거리](Algorithm/algorithm-til/Search_Graph/2026-04-15_PG_bfs_게임-맵-최단거리.md)
+- [[Lv.3] 단어 변환](Algorithm/algorithm-til/Search_Graph/2026-05-06_PG_bfs_단어-변환.md)
 - [[실버2] 특정 거리의 도시 찾기](Algorithm/algorithm-til/Search_Graph/2026-04-14_BOJ_bfs_특정-거리의-도시-찾기.md)
 - [[골드3] 벽 부수고 이동하기](Algorithm/algorithm-til/Search_Graph/2026-04-17_BOJ_bfs_벽-부수고-이동하기.md)
 - [[실버3] 소수 구하기](Algorithm/algorithm-til/Search_Graph/2026-02-19_BOJ_math_소수-구하기.md)
