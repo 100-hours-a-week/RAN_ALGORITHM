@@ -62,7 +62,9 @@ _(26.02.06 기준)_
 - [🪶 오랜만에 백트래킹]()
 - [🪶 오랜만에 투포인터](Algorithm/algorithm-til/Stack_Queue_Hash/2026-04-16_algo_오랜만에-투포인터를-푸는-너에게.md)
 
-##나만의 문법 팁
+## 나만의 문법 팁
+
+- [for vs while 언제쓸까?](Algorithm/alg-tip/for-while.md)
 
 ---
 
